@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Create React App(Creating a newsapp)![image](https://user-images.githubusercontent.com/106557993/224430455-5280eb59-b4c6-4f44-8b62-6f95ed2ec270.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+⭐This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+⭐This project can be used to have your own platform to get the news categorically i.e sports,entertainment,health etc.<br>
+⭐Used external api to fetch the data.<br>
+⭐Use of infinite scroll functionality.<br>
+⭐Used react router also.<br>
 
 ## Available Scripts
 
